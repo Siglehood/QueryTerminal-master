@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">无线支付查询终端</string>
+    <string name="order_number">订单号：</string>
+    <string name="hint_order_number">请输入订单号后六位\u2026</string>
+    <string name="clear">清空</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="prompt">提示</string>
+    <string name="message_succeed">查询成功\\(^o^)/</string>
+    <string name="message_fail">抱歉，您输入的订单号不存在-_-。</string>
+    <string name="message_wait">查询中，请稍候\u2026</string>
+    <string name="message_exception">服务器连接异常-_-。</string>
+    <string name="toast_null">输入内容不能为空！</string>
+    <string name="toast_ip_null">IP地址不能为空！</string>
+    <string name="toast_order_number_null">订单号不能为空！</string>
+    <string name="toast_network_connected">当前网络不可用!</string>
+    <string name="hint_server_ip">请输入服务器端IP地址\u2026</string>
+    <string name="server_ip">IP地址：</string>
+    <string name="ip">120.24.85.62</string>
+    <string name="copyright">Copyright© 2005&#8211;2015 GEC.All Rights Reserved.</string>
+
+</resources>
